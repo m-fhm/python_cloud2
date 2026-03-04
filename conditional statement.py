@@ -39,11 +39,11 @@ if marks > 60:
 print("program end")
 
 
-asdfasfasd:
-    dfvgdsg
-    dgfsds
-    sdfgdsg
-    asdfasfasd
-    def
+# asdfasfasd:
+#     dfvgdsg
+#     dgfsds
+#     sdfgdsg
+#     asdfasfasd
+#     def
 
-sdfgs
+# sdfgs
